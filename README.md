@@ -17,3 +17,4 @@ Create a simple Todo list with vanilla JS.Vanilla JS means no plugins, no librar
 
 7.Extra points for creativity (think about user accessibility, some animations and things like that)
  
+Hosted link :- https://rakeshmohantarai.github.io/Todo-List-Coding-Ninjas/
